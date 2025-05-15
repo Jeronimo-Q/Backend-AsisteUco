@@ -2,7 +2,7 @@ package co.edu.uco.asistenciauco.crosscutting.helpers;
 
 import java.util.UUID;
 
-public class UUIDHelper {
+public final class UUIDHelper {
 
     private static final String DEFAULT_UUID_STRING = "00000000-0000-0000-0000-000000000000";
 
