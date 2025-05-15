@@ -38,7 +38,7 @@ jobs:
         with:
           projectBaseDir: .
           args: >
-            -Dsonar.projectKey=Backend-AsisteUco
+            -Dsonar.projectKey=Jeronimo-Q_Backend-AsisteUco
             -Dsonar.organization=Jeronimo-Q
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
