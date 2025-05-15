@@ -20,7 +20,7 @@ public final class TipoIdentificacionEntity {
     //TODO: Cuidado con dejar quemado el literal
     @Column(name = "clave")
     private String clave;
-    //TODO: Cuidado con dejar quemado el literal
+    //TODO: Cuidado con dejar quemado el litera
     @Column(name = "nombre")
     private String nombre;
 
